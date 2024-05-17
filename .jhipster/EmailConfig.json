@@ -1,0 +1,19 @@
+{
+  "annotations": {
+    "changelogDate": "20240517053616"
+  },
+  "applications": "*",
+  "fields": [
+    {
+      "fieldName": "emailId",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "tokenString",
+      "fieldType": "String"
+    }
+  ],
+  "name": "EmailConfig",
+  "relationships": [],
+  "searchEngine": "no"
+}
